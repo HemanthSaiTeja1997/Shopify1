@@ -25,7 +25,7 @@ export default function CartList() {
            cartItems.map(singleCartItem=><CartTile  singleCartItem={singleCartItem}/>)
           :
          
-          <h1>No items available in cart!!! Please add some items in Cart</h1>
+          <h1>No items available in cart!!!! Please add some items in Cart</h1>
           }
 
         </div>
